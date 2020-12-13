@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi all,
+Greetings from Germany.
+Cheers,
+Lucas
